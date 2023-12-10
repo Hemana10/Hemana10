@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 👩‍💻 About Me
 
 - 💼 I’m currently working as a Frontend Developer at Accenture for Cox Communications(myaccount-business.cox.com).
-- 🌱 I’m currently learning and exploring NgRx library for state management in Angular.
+- 🌱 I’m currently learning and exploring Flux Architecture in both Angular and React using respective libraries - NgRx and Redux, I am working on a Restaurant and Users Dashboard Projects to get a practical and hands-on knowledge on the topics. 
 - 📫 How to reach me: Feel free to use my social links.
 - ⚡ Fun fact: Apart from coding I like painting in my free time.
 
 🛠️ Languages and Tools
-HTML  CSS  JavaScript  React  Redux   Java  Spring  Git
+HTML  CSS  JavaScript  React  Redux ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  Git
