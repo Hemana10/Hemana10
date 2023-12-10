@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Apart from coding I like painting in my free time.
 
 🛠️ Languages and Tools
-HTML  CSS  JavaScript  React  Redux ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  Git
+[![My Skills](https://skillicons.dev/icons?i=angular,react&perline=10)](https://skillicons.dev)
+HTML  CSS  JavaScript  React  Redux  Git
