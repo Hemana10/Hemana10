@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 About Me
+👩‍💻** About Me**
 
 - 💼 I’m currently working as a Frontend Developer at Accenture for Cox Communications(myaccount-business.cox.com).
 - 🌱 I’m currently learning and exploring Flux Architecture in both Angular and React using respective libraries - NgRx and Redux, I am working on a Restaurant and Users Dashboard Projects to get a practical and hands-on knowledge on the topics. 
 - 📫 How to reach me: Feel free to use my social links.
 - ⚡ Fun fact: Apart from coding I like painting in my free time.
-
-🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=angular,react&perline=10)](https://skillicons.dev)
+ 
+🛠️** Languages and Tools**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=angular,react,apollo,graphql,html,css&perline=10)](https://skillicons.dev)
 HTML  CSS  JavaScript  React  Redux  Git
