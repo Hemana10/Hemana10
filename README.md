@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and exploring NgRx library for state management in Angular.
 - 📫 How to reach me: Feel free to use my social links.
 - ⚡ Fun fact: Apart from coding I like painting in my free time.
+
 🛠️ Languages and Tools
 HTML  CSS  JavaScript  React  Redux   Java  Spring  Git
