@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 👩‍💻 About Me
 
-💼 I’m currently working as a Frontend Developer at Accenture for Cox Communications(myaccount-business.cox.com).
-🌱 I’m currently learning and exploring NgRx library for state management in Angular.
-📫 How to reach me: Feel free to use my social links.
-⚡ Fun fact: Apart from coding I like painting in my free time.
+- 💼 I’m currently working as a Frontend Developer at Accenture for Cox Communications(myaccount-business.cox.com).
+- 🌱 I’m currently learning and exploring NgRx library for state management in Angular.
+- 📫 How to reach me: Feel free to use my social links.
+- ⚡ Fun fact: Apart from coding I like painting in my free time.
 🛠️ Languages and Tools
 HTML  CSS  JavaScript  React  Redux   Java  Spring  Git
