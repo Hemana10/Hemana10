@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Apart from coding I like painting in my spare time.
  
 ### 🛠️ Languages and Tools
-<br>
 [![My Skills](https://skillicons.dev/icons?i=angular,react,apollo,graphql,javascript,html,css&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular,react,apollo,graphql,html,css&perline=3)](https://skillicons.dev)
