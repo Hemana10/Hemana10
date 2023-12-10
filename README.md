@@ -23,4 +23,3 @@ Here are some ideas to get you started:
  
 ### 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=angular,react,apollo,graphql,javascript,html,css&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,react,apollo,graphql,html,css&perline=3)](https://skillicons.dev)
